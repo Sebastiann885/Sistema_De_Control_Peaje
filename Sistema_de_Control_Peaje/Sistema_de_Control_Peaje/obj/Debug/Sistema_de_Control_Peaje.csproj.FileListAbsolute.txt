@@ -1,0 +1,7 @@
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_de_Control_Peaje\Sistema_de_Control_Peaje\obj\Debug\Sistema_de_Control_Peaje.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_de_Control_Peaje\Sistema_de_Control_Peaje\obj\Debug\Sistema_de_Control_Peaje.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_de_Control_Peaje\Sistema_de_Control_Peaje\bin\Debug\Sistema_de_Control_Peaje.exe.config
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_de_Control_Peaje\Sistema_de_Control_Peaje\bin\Debug\Sistema_de_Control_Peaje.exe
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_de_Control_Peaje\Sistema_de_Control_Peaje\bin\Debug\Sistema_de_Control_Peaje.pdb
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_de_Control_Peaje\Sistema_de_Control_Peaje\obj\Debug\Sistema_de_Control_Peaje.exe
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Sistema_de_Control_Peaje\Sistema_de_Control_Peaje\obj\Debug\Sistema_de_Control_Peaje.pdb
